@@ -1,0 +1,1 @@
+{'InstanceMonitorings': [{'InstanceId': 'i-0406ee5fad24569a9', 'Monitoring': {'State': 'enabled'}}], 'ResponseMetadata': {'RequestId': '170a4a2e-4f8f-4f41-a5cd-2582ed5cbb39', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '424', 'date': 'Thu, 24 Oct 2019 19:47:12 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
